@@ -1,0 +1,8 @@
+
+Normalization minimizes data redundancy and dependency by organizing 
+fields and table of a database. It involves splitting tables into smaller tables and defining relationships 
+between them.
+
+
+We have two tables: temperature_reports and cities.
+We can normalize the temperature_reports table by splitting it into two tables: temperature and humidity.
